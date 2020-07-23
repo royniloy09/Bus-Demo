@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Bus Demo</string>
+    <string name="text_first_page">Demo Project App\(CSE201903104)</string>
+    <string name="rating">Rating and About Us</string>
+    <string name="about">Niloy Roy\nCSE201903104</string>
+    <string name="button1">All Buses</string>
+    <string name="text2">Bus List</string>
+    <string name="route">Route</string>
+    <string name="exit_title">Exit</string>
+    <string name="exit_text">Do you want ot exit?</string>
+
+    <string-array name="bus">
+        <item>13 no</item>
+        <item>06 no</item>
+        <item>07 no</item>
+        <item>08 no</item>
+        <item>Anabil Super</item>
+        <item>Agradut ltd.</item>
+        <item>Alif Enterprise</item>
+        <item>Bihongo Paribahan Limited</item>
+        <item>Balaka</item>
+        <item>BRTC Service</item>
+        <item>Dewan</item>
+        <item>Himachol Paribahan</item>
+        <item>Khajababa Paribahan Ltd.</item>
+        <item>Labbayek</item>
+        <item>Ramjan</item>
+        <item>Robrob Paribahan Pvt. Ltd.</item>
+        <item>Suprovat Paribahan</item>
+        <item>Shadhin</item>
+        <item>Torongo Plus Transport Ltd.</item>
+        <item>Turag Transport Co. Ltd.</item>
+    </string-array>
+
+    <string name="T1">Mohammadpur ⇄ Dhanmondi 27 ⇄ Shankar ⇄ Star Kabab ⇄ Dhakmondi 15 ⇄ Jhigatola ⇄ City College ⇄ Science Lab ⇄ Dhaka College ⇄ New Market ⇄ Nilkhet ⇄ Eden College ⇄ Azimpur.</string>
+    <string name="T2">Pirjongi Mazar ⇄ Kamalapur ⇄ Motijheel ⇄ Gulistan ⇄ Kakrail ⇄ Malibagh ⇄ Moghbazar ⇄ Bangla Motor ⇄ Farmgate ⇄ Mohakhali ⇄Gulshan-1 ⇄ Link Road ⇄ Badda ⇄ Natun Bazar</string>
+    <string name="T4">Gabtoli ⇄ Shyamoli ⇄ Farmgate ⇄ Shahbagh ⇄ Motijheel ⇄ Sayedabad ⇄ Jatrabari</string>
+    <string name="T3">Gabtoli  ⇄ Technical ⇄ Kallyanpur ⇄ Shyamoli ⇄ Shishu Mela ⇄ College Gate ⇄ Asad Gate ⇄ Dhanmondi 27 ⇄ Dhanmondi 32 ⇄ Kalabagan ⇄ Science Lab ⇄ Katabon ⇄ Shahbag ⇄ High Court ⇄ Press Club ⇄ Paltan ⇄ GPO ⇄ Golap Shah Mazar ⇄ Gulistan ⇄ Naya Bazar ⇄ Ray Shaheb Bazar ⇄ Sadarghat.</string>
+    <string name="T5">Signboard ⇄ Jatrabari ⇄ Sayedabad ⇄ Malibagh ⇄ Rampura ⇄ Badda ⇄ Airport ⇄ Tongi Bridge ⇄ Gazipur Chowrasta.</string>
+    <string name="T6">Savar ⇄ Gabtoli ⇄ Shyamoly ⇄ Agargaon ⇄ Mohakhali ⇄ Gulshan-1.</string>
+    <string name="T7">Mohammadpur ⇄ Shia Mashjid ⇄ Shishu Mela ⇄ Agargaon ⇄ Bijoy Sarani ⇄ Jahangir Gate ⇄ Mohakhali ⇄ Gulshan-1⇄ Badda ⇄ Rampura ⇄ Banasree.</string>
+    <string name="T8">Mirpur 11 ⇄ Mirpur 10 ⇄ Kazipara ⇄ Shewrapara ⇄ Farmgate ⇄ Shahbagh ⇄ Press Club ⇄ Bangabazar ⇄ Golapshah Mazar ⇄ Rai Shaheb Bazar.</string>
+    <string name="T9">Motijheel ⇄ Kamalapur ⇄ Malibagh ⇄ Moghbazar ⇄ Nabisco ⇄ Mohakhali ⇄ Banani ⇄ Khilkhet ⇄ Airport ⇄ Uttara ⇄ Tongi ⇄ Board Bazar ⇄ Gazipur ⇄ Shib Bari.</string>
+    <string name="T10">Abdullahpur ⇄ Motijheel Via Farmgate / Gazipur-Gulistan Via Farmgate / Mirpur-12 ⇄ Motijheel Via Farmgate / Mohammadpur ⇄ Gulshan-2 Via Farmgate
+Dewan - Azimpur ⇄ New Market ⇄ Science Lab ⇄ Shahbagh ⇄ Kaoran Bazar⇄ Farmgate ⇄ Mohakhali ⇄ Gulshan-1.Road.</string>
+    <string name="T12">Mirpur Sony Cinema Hall ⇄ Mirpur 10 ⇄ Kazipara ⇄ Shewrapara ⇄ Mohakhali ⇄ Gulshan 1 ⇄ Badda ⇄ Rampura ⇄ Khilgaon Khidma Hospital.</string>
+    <string name="T13">Mirpur 10 ⇄  Mirpur 11 ⇄  Mirpur  12 ⇄ Kazipara ⇄ Farmgate ⇄ Guslistan ⇄ Jatrabari
+Labbayek - 	Jatrabari  ⇄ Sayedabad ⇄ Mugda ⇄ Khilgaon ⇄ Malibagh ⇄ Moghbazar ⇄ Kawran Bazar ⇄ Farmgate ⇄ Asadgate ⇄ Shyamoli ⇄ Gabtoli ⇄ Savar.</string>
+    <string name="T15">Azimpur ⇄ Science Lab ⇄ Shahbagh ⇄ Kakrail ⇄ Mouchak ⇄ Rampura ⇄ Banasree ⇄ Demra Staff Quarter.</string>
+    <string name="T16">Gabtoli ⇄ Technical ⇄ Mirpur 1 ⇄ Mirpur 2 ⇄ Mirpur 10 ⇄ Mirpur 11 ⇄ Mirpur 12 ⇄  Purobi ⇄ Kalshi ⇄ Matikata Flyover ⇄ Mohakhali ⇄ Banani ⇄ Gulshan 2 ⇄ Gulshan 1 ⇄ Badda Link Road ⇄ Rampura Bridge ⇄ Meradia Bazar.</string>
+    <string name="T17">Sadarghat Victoria Park ⇄ Ray Shaheb Bazar ⇄ Naya Bazar ⇄ Golap Shah Mazar ⇄ GPO ⇄ Paltan ⇄ Kakrail ⇄ Shantinagar ⇄ Malibagh Mor ⇄ Mouchak ⇄ Malibagh Railgate ⇄ Rampura ⇄ Merul ⇄ Maddhya Badda ⇄ Badda ⇄ Uttar Badda ⇄ Shahjadpur ⇄ Bashtola ⇄ Natun Bazar ⇄ Nadda ⇄ Bashundhara ⇄ Jamuna Future Park ⇄ Kuril Bishwa Road ⇄ Khilkhet ⇄ Airport ⇄ Jashimuddin ⇄ Rajlakshmi ⇄ Azampur ⇄ Uttara House Building ⇄ Abdullahpur ⇄ Tongi ⇄ Station Road ⇄ Mill Gate ⇄ Hossain Market ⇄ Board Bazar ⇄ Gazipur.</string>
+    <string name="T18">- Bosila ⇄ Mohammadpur ⇄ Farmgate ⇄ Moghbazar  ⇄ Mouchak  ⇄  Rampura  ⇄  Banasree   ⇄ Demra Staff Quarter.</string>
+    <string name="T11">Azimpur ⇄ New Market ⇄ Science Lab ⇄ Shahbagh ⇄ Kaoran Bazar⇄ Farmgate ⇄ Mohakhali ⇄ Gulshan-1.Road.</string>
+    <string name="T14">Jatrabari ⇄ Sayedabad ⇄ Mugda ⇄ Khilgaon ⇄ Malibagh ⇄ Moghbazar ⇄ Kawran Bazar ⇄ Farmgate ⇄ Asadgate ⇄ Shyamoli ⇄ Gabtoli ⇄ Savar.</string>
+    <string name="T19">Mohammadpur Bus Stand ⇄ Shankar ⇄ Star Kabab ⇄ Dhanmondi 15 ⇄ Jhigatola ⇄ City College ⇄ Science Lab ⇄ Katabon ⇄ Shahbag ⇄ Motso Bhaban ⇄ Kakrail ⇄ Shantinagar ⇄ Malibagh Mor ⇄ Mouchak ⇄ Malibagh Rail Gate ⇄ Rampura Bazar ⇄ Rampura Bridge ⇄ South Banasree.</string>
+    <string name="T20">Tongi ⇄ Abdullahpur ⇄ Airport ⇄ Kuril ⇄ Natun Bazar ⇄ Badda ⇄ Rampura ⇄ Malibagh ⇄ Khilgaon ⇄ Bashabo ⇄  Mugda ⇄ Maniknagar ⇄ Sayedabad ⇄ Jatrabari.</string>
+</resources>
